@@ -1,5 +1,3 @@
-# Getting Started with Create React App
+# Countdown App
 
-This project was deploy with [Countdown App](https://countdown-omega-azure.vercel.app/).
-
-## Countdown App
+This project was deploy in [Countdown App](https://countdown-omega-azure.vercel.app/).
